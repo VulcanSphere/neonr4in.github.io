@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+permalink: /:categories/:year/:month/:title/
+title: Vulphere.me
+description: Personal web page of Vulp
